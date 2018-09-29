@@ -1,4 +1,4 @@
-# Sanjiwani
+# Sanjeevani
 Sanjiwani-IBM-CFC-2018
 
 IOT connection and dat afeed to AI modle with visualisation 
